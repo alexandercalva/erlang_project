@@ -14,29 +14,23 @@ Lists
 
 Using lambda functions with lists:map, lists:filter, or lists:foldl
 
-{Provide a description for the software that you wrote to demonstrate the Erlang language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
+A program with some functions was developed to perform different processes. For example, Fibonacci, temperature converter, etc.
 
 [Software Demo Video](https://youtu.be/g-Ijt8bFkC8)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+* I need to install Erlang / OTP version 25.
+* Set environment variables.
+* The Visual Studio Code console.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Erlang Download](https://www.erlang.org/downloads)
+* [Demo Intallation](https://www.youtube.com/watch?v=vTk55nKqg5Y)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Perform more complex recursive processes
+* Send messages to the user
+
