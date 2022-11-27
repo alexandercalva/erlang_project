@@ -20,7 +20,7 @@ A program with some functions was developed to perform different processes. For 
 
 # Development Environment
 
-* I need to install Erlang / OTP version 25.
+* Install Erlang / OTP version 25.
 * Set environment variables.
 * The Visual Studio Code console.
 
